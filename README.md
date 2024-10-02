@@ -24,4 +24,4 @@ Want to play the game locally? It’s easy!
 
 1. **Clone this repo:**
    ```bash
-   git clone https://github.com/yourusername/Tic-Tac-Toe-AI.git
+   https://github.com/SRafi007/Tic-Tac-Toe-AI-using-Minimax-Basic-Unbeatable.git
